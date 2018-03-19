@@ -1,0 +1,12 @@
+D:\Разнобой\NeuralNetwork\NeuralNetworkApp\bin\Debug\Neural Application.exe
+D:\Разнобой\NeuralNetwork\NeuralNetworkApp\bin\Debug\Neural Application.pdb
+D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\Neural Application.csprojResolveAssemblyReference.cache
+D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\MainWindow.baml
+D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\MainWindow.g.cs
+D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\App.g.cs
+D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\Neural Application_MarkupCompile.cache
+D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\Neural Application.g.resources
+D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\Neural_Application.Properties.Resources.resources
+D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\Neural Application.csproj.GenerateResource.Cache
+D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\Neural Application.exe
+D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\Neural Application.pdb
