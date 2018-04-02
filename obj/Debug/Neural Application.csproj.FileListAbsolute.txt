@@ -10,3 +10,4 @@ D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\Neural_Application.
 D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\Neural Application.csproj.GenerateResource.Cache
 D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\Neural Application.exe
 D:\Разнобой\NeuralNetwork\NeuralNetworkApp\obj\Debug\Neural Application.pdb
+D:\Разнобой\NeuralNetwork\NeuralNetworkApp\bin\Debug\UcanDotNET.dll

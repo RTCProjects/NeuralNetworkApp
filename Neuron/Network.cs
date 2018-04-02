@@ -7,6 +7,9 @@ namespace Neural_Application.Neuron
 {
     class Network
     {
+        public Network()
+        {
 
+        }
     }
 }
