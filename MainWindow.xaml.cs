@@ -14,6 +14,7 @@ using System.Windows.Shapes;
 
 using UcanDotNET;
 using Neural_Application.Interfaces;
+using Neural_Application.Neuron;
 
 namespace Neural_Application
 {
@@ -23,6 +24,7 @@ namespace Neural_Application
     public partial class MainWindow : Window
     {
         private UCanWrapper canWrapper;
+        private CNeuron cNeuron;
 
         public MainWindow()
         {
@@ -32,6 +34,10 @@ namespace Neural_Application
 
             canWrapper = new UCanWrapper(0, UCanWrapper.eUcanBaudrate.USBCAN_BAUD_500kBit);
             canWrapper.onBDGPDataRcv += DrawGraph;
+
+            cNeuron = new CNeuron();
+            double temp1 = cNeuron.Prov(1.235);
+
         }
         public void UpdateLogControl()
         {
